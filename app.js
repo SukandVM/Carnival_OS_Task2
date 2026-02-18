@@ -1,3 +1,3 @@
 // app.js
-const VERSION = "1.1.0-ALPHA";
+const VERSION = "2.2.0-BETA";
 console.log("Task Manager version " + VERSION);
