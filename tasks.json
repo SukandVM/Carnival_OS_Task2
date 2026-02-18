@@ -1,0 +1,9 @@
+{
+  "project": "Workshop API",
+  "version": "1.0.0",
+  "status": "development",
+  "config": {
+    "port": 3000,
+    "debug": true
+  }
+}
